@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/tsdfy9/anna-hft",
+  "repository": "https://github.com/tsdfy9/anna-hft",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
